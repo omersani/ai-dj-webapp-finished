@@ -1,0 +1,72 @@
+
+#h3
+{
+    color: black;
+    font-family: 'Protest Riot', sans-serif;
+    font-size: 25px;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#note
+{
+    font-size: 18px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.speed_disc
+{
+    float: right;
+}
+
+.speed_disc_image
+{
+width: 200px;
+border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 19px;
+    margin: 15px;
+}
+
+.volume_disc
+{
+    float: left;
+}
+
+.volume_disc_image
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 19px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
